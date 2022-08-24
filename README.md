@@ -1,2 +1,3 @@
-# CVE2ATT-CK
-CVE2ATT&amp;CK: BERT-based mapping of CVEs to MITRE ATT&amp;CK Techniques
+# MITRE-Labelling
+
+vulner_embedding.bin should be downloaded from https://github.com/unsw-cse-soc/Vul_Word2Vec
